@@ -1,0 +1,30 @@
+Logical operators:
+
+NOT, AND, OR.. Symbols left to right are --> !,&&,||
+They all have tables that meet conditions to give a result
+
+AND= Uname & pass need to be true to yield true/ 1+1=1 0+1=0 1+0=0
+
+OR= finding a friend by first or last name and you may know them. It might show your friends first name but not last name and vice versa.
+1+0=1, 1+0=1, 0+0=0
+
+// names.length show how many in the array
+
+console.table is much easier to read 
+
+more common practice to store names as numbers, because there are multiple people with the same name
+
+if statements:
+look the slides 10 and 11 in the programming fundamentals presentation under class 1 modules.
+boolean operators(review)
+< > == !== <== >==
+
+logical operators(review)
+NOT AND OR --> ! &&, ||
+
+arrays:
+traveling with a for loop
+access the arrays with the name [index]
+use the push () to add a new element in the array
+use the splice() to remove an element in the array
+remove an element from the html with remove ()
